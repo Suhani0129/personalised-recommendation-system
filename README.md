@@ -52,6 +52,13 @@ To run the project locally:
 -> Create a file named `application.properties` in `src/main/resources/`
 -> Add your database configuration in the file as shown below:
 
+spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce
+spring.datasource.username=your-username
+spring.datasource.password=your-password
+spring.jpa.hibernate.ddl-auto=update
+server.port=8082
+
+> Note: The actual `application.properties` file is excluded from this repository for security reasons.
 
 
 ## Team Contribution
