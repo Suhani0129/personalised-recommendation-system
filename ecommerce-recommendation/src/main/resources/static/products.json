@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Levi's Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/levi's_blender.jpg"
+  },
+  {
+    "name": "Adidas Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/adidas_air_conditioner.jpg"
+  },
+  {
+    "name": "Vaseline Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/vaseline_air_conditioner.jpg"
+  },
+  {
+    "name": "Samsung Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/samsung_headphones.jpg"
+  },
+  {
+    "name": "Philips Yellow Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/philips_yellow_heels.jpg"
+  },
+  {
+    "name": "Panasonic Beige Straight Dress",
+    "category": "Clothing",
+    "image": "https://example.com/images/panasonic_beige_straight_dress.jpg"
+  },
+  {
+    "name": "LG Yellow Slim Fit Shorts",
+    "category": "Clothing",
+    "image": "https://example.com/images/lg_yellow_slim_fit_shorts.jpg"
+  },
+  {
+    "name": "Nike Shampoo",
+    "category": "Hair Care",
+    "image": "https://example.com/images/nike_shampoo.jpg"
+  },
+  {
+    "name": "Zara Yellow Cargo Shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/zara_yellow_cargo_shirt.jpg"
+  },
+  {
+    "name": "Dove Black Belt",
+    "category": "Accessories",
+    "image": "https://example.com/images/dove_black_belt.jpg"
+  },
+  {
+    "name": "Nike White Sunglasses",
+    "category": "Accessories",
+    "image": "https://example.com/images/nike_white_sunglasses.jpg"
+  },
+  {
+    "name": "Sony Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/sony_headphones.jpg"
+  },
+  {
+    "name": "Levi's Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/levi's_smartphone.jpg"
+  },
+  {
+    "name": "Zara Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/zara_hair_oil.jpg"
+  },
+  {
+    "name": "LG Conditioner",
+    "category": "Hair Care",
+    "image": "https://example.com/images/lg_conditioner.jpg"
+  },
+  {
+    "name": "Levi's Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/levi's_microwave.jpg"
+  },
+  {
+    "name": "Zara Blue High Waist Jeans",
+    "category": "Clothing",
+    "image": "https://example.com/images/zara_blue_high_waist_jeans.jpg"
+  },
+  {
+    "name": "LG Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/lg_blender.jpg"
+  },
+  {
+    "name": "Zara Red Handbag",
+    "category": "Accessories",
+    "image": "https://example.com/images/zara_red_handbag.jpg"
+  },
+  {
+    "name": "Zara Face Mask",
+    "category": "Skin Care",
+    "image": "https://example.com/images/zara_face_mask.jpg"
+  },
+  {
+    "name": "Panasonic Conditioner",
+    "category": "Hair Care",
+    "image": "https://example.com/images/panasonic_conditioner.jpg"
+  },
+  {
+    "name": "Philips Blue Wide Leg T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_blue_wide_leg_t-shirt.jpg"
+  },
+  {
+    "name": "LG Cleanser",
+    "category": "Skin Care",
+    "image": "https://example.com/images/lg_cleanser.jpg"
+  },
+  {
+    "name": "Apple Blue Scarf",
+    "category": "Accessories",
+    "image": "https://example.com/images/apple_blue_scarf.jpg"
+  },
+  {
+    "name": "LG Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/lg_smartphone.jpg"
+  },
+  {
+    "name": "Nike Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/nike_smartwatch.jpg"
+  },
+  {
+    "name": "Nike White Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/nike_white_sandals.jpg"
+  },
+  {
+    "name": "Dove Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/dove_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "Levi's Green Cargo Shorts",
+    "category": "Clothing",
+    "image": "https://example.com/images/levi's_green_cargo_shorts.jpg"
+  },
+  {
+    "name": "Vaseline Washing Machine",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/vaseline_washing_machine.jpg"
+  },
+  {
+    "name": "LG Hair Serum",
+    "category": "Hair Care",
+    "image": "https://example.com/images/lg_hair_serum.jpg"
+  },
+  {
+    "name": "LG Washing Machine",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/lg_washing_machine.jpg"
+  },
+  {
+    "name": "Adidas Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/adidas_smartwatch.jpg"
+  },
+  {
+    "name": "Vaseline Hair Serum",
+    "category": "Hair Care",
+    "image": "https://example.com/images/vaseline_hair_serum.jpg"
+  },
+  {
+    "name": "Adidas Refrigerator",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/adidas_refrigerator.jpg"
+  },
+  {
+    "name": "Zara Grey Wallet",
+    "category": "Accessories",
+    "image": "https://example.com/images/zara_grey_wallet.jpg"
+  },
+  {
+    "name": "Philips Beige Scarf",
+    "category": "Accessories",
+    "image": "https://example.com/images/philips_beige_scarf.jpg"
+  },
+  {
+    "name": "Nike Refrigerator",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/nike_refrigerator.jpg"
+  },
+  {
+    "name": "Nike Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/nike_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "Adidas Shampoo",
+    "category": "Hair Care",
+    "image": "https://example.com/images/adidas_shampoo.jpg"
+  },
+  {
+    "name": "Philips Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/philips_blender.jpg"
+  },
+  {
+    "name": "Zara Blue Belt",
+    "category": "Accessories",
+    "image": "https://example.com/images/zara_blue_belt.jpg"
+  },
+  {
+    "name": "Adidas Green Sunglasses",
+    "category": "Accessories",
+    "image": "https://example.com/images/adidas_green_sunglasses.jpg"
+  },
+  {
+    "name": "Vaseline Yellow Wallet",
+    "category": "Accessories",
+    "image": "https://example.com/images/vaseline_yellow_wallet.jpg"
+  },
+  {
+    "name": "Adidas Grey Low Rise Shorts",
+    "category": "Clothing",
+    "image": "https://example.com/images/adidas_grey_low_rise_shorts.jpg"
+  },
+  {
+    "name": "Nike Yellow Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/nike_yellow_boots.jpg"
+  },
+  {
+    "name": "Philips Beige Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/philips_beige_boots.jpg"
+  },
+  {
+    "name": "Apple Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/apple_hair_mask.jpg"
+  },
+  {
+    "name": "Adidas Red Distressed T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/adidas_red_distressed_t-shirt.jpg"
+  },
+  {
+    "name": "Adidas Yellow High Waist Shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/adidas_yellow_high_waist_shirt.jpg"
+  },
+  {
+    "name": "Adidas Hair Serum",
+    "category": "Hair Care",
+    "image": "https://example.com/images/adidas_hair_serum.jpg"
+  },
+  {
+    "name": "Philips Blue Sneakers",
+    "category": "Footwear",
+    "image": "https://example.com/images/philips_blue_sneakers.jpg"
+  },
+  {
+    "name": "Panasonic Blue Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/panasonic_blue_heels.jpg"
+  },
+  {
+    "name": "Adidas Yellow Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/adidas_yellow_heels.jpg"
+  },
+  {
+    "name": "Sony Black Handbag",
+    "category": "Accessories",
+    "image": "https://example.com/images/sony_black_handbag.jpg"
+  },
+  {
+    "name": "Vaseline Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/vaseline_hair_mask.jpg"
+  },
+  {
+    "name": "Apple Beige Sneakers",
+    "category": "Footwear",
+    "image": "https://example.com/images/apple_beige_sneakers.jpg"
+  },
+  {
+    "name": "Zara Red Sneakers",
+    "category": "Footwear",
+    "image": "https://example.com/images/zara_red_sneakers.jpg"
+  },
+  {
+    "name": "Adidas Yellow Scarf",
+    "category": "Accessories",
+    "image": "https://example.com/images/adidas_yellow_scarf.jpg"
+  },
+  {
+    "name": "Vaseline Grey Wide Leg Shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/vaseline_grey_wide_leg_shirt.jpg"
+  },
+  {
+    "name": "Zara Moisturizer",
+    "category": "Skin Care",
+    "image": "https://example.com/images/zara_moisturizer.jpg"
+  },
+  {
+    "name": "Adidas Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/adidas_laptop.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Washing Machine",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/l'or\u00e9al_washing_machine.jpg"
+  },
+  {
+    "name": "Samsung Red Wallet",
+    "category": "Accessories",
+    "image": "https://example.com/images/samsung_red_wallet.jpg"
+  },
+  {
+    "name": "Philips White Watch",
+    "category": "Accessories",
+    "image": "https://example.com/images/philips_white_watch.jpg"
+  },
+  {
+    "name": "Vaseline Red Straight Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/vaseline_red_straight_sweater.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Grey Slim Fit Jeans",
+    "category": "Clothing",
+    "image": "https://example.com/images/l'or\u00e9al_grey_slim_fit_jeans.jpg"
+  },
+  {
+    "name": "H&M White Slim Fit Jeans",
+    "category": "Clothing",
+    "image": "https://example.com/images/h&m_white_slim_fit_jeans.jpg"
+  },
+  {
+    "name": "Levi's White Low Rise T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/levi's_white_low_rise_t-shirt.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al White Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/l'or\u00e9al_white_boots.jpg"
+  },
+  {
+    "name": "Dove Green Loafers",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_green_loafers.jpg"
+  },
+  {
+    "name": "Adidas Serum",
+    "category": "Skin Care",
+    "image": "https://example.com/images/adidas_serum.jpg"
+  },
+  {
+    "name": "Samsung Grey Washed Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/samsung_grey_washed_sweater.jpg"
+  },
+  {
+    "name": "Nike Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/nike_laptop.jpg"
+  },
+  {
+    "name": "Samsung Red Loafers",
+    "category": "Footwear",
+    "image": "https://example.com/images/samsung_red_loafers.jpg"
+  },
+  {
+    "name": "Zara Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/zara_headphones.jpg"
+  },
+  {
+    "name": "Dove Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/dove_smartphone.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Cleanser",
+    "category": "Skin Care",
+    "image": "https://example.com/images/l'or\u00e9al_cleanser.jpg"
+  },
+  {
+    "name": "Samsung Hair Serum",
+    "category": "Hair Care",
+    "image": "https://example.com/images/samsung_hair_serum.jpg"
+  },
+  {
+    "name": "Zara Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/zara_microwave.jpg"
+  },
+  {
+    "name": "Apple Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/apple_microwave.jpg"
+  },
+  {
+    "name": "Apple Beige Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/apple_beige_flip-flops.jpg"
+  },
+  {
+    "name": "Nike Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/nike_blender.jpg"
+  },
+  {
+    "name": "Samsung Refrigerator",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/samsung_refrigerator.jpg"
+  },
+  {
+    "name": "Panasonic Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/panasonic_smartphone.jpg"
+  },
+  {
+    "name": "H&M Green Straight T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/h&m_green_straight_t-shirt.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Blue High Waist Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/l'or\u00e9al_blue_high_waist_sweater.jpg"
+  },
+  {
+    "name": "Dove White Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_white_heels.jpg"
+  },
+  {
+    "name": "Sony Yellow Distressed Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/sony_yellow_distressed_sweater.jpg"
+  },
+  {
+    "name": "Nike Serum",
+    "category": "Skin Care",
+    "image": "https://example.com/images/nike_serum.jpg"
+  },
+  {
+    "name": "Adidas Red Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/adidas_red_heels.jpg"
+  },
+  {
+    "name": "Vaseline White Belt",
+    "category": "Accessories",
+    "image": "https://example.com/images/vaseline_white_belt.jpg"
+  },
+  {
+    "name": "Apple Grey Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/apple_grey_boots.jpg"
+  },
+  {
+    "name": "H&M Grey Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/h&m_grey_flip-flops.jpg"
+  },
+  {
+    "name": "Panasonic Black Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/panasonic_black_boots.jpg"
+  },
+  {
+    "name": "Nike Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/nike_microwave.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Red Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/l'or\u00e9al_red_boots.jpg"
+  },
+  {
+    "name": "Samsung Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/samsung_hair_oil.jpg"
+  },
+  {
+    "name": "Levi's Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/levi's_headphones.jpg"
+  },
+  {
+    "name": "Levi's Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/levi's_air_conditioner.jpg"
+  },
+  {
+    "name": "H&M Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/h&m_hair_mask.jpg"
+  },
+  {
+    "name": "Sony Yellow Watch",
+    "category": "Accessories",
+    "image": "https://example.com/images/sony_yellow_watch.jpg"
+  },
+  {
+    "name": "Dove Red Loafers",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_red_loafers.jpg"
+  },
+  {
+    "name": "Vaseline Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/vaseline_laptop.jpg"
+  },
+  {
+    "name": "Panasonic Yellow Low Rise Shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/panasonic_yellow_low_rise_shirt.jpg"
+  },
+  {
+    "name": "Philips Black Sneakers",
+    "category": "Footwear",
+    "image": "https://example.com/images/philips_black_sneakers.jpg"
+  },
+  {
+    "name": "Adidas Yellow Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/adidas_yellow_sandals.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Grey Low Rise Dress",
+    "category": "Clothing",
+    "image": "https://example.com/images/l'or\u00e9al_grey_low_rise_dress.jpg"
+  },
+  {
+    "name": "Zara Red Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/zara_red_sandals.jpg"
+  },
+  {
+    "name": "Samsung Serum",
+    "category": "Skin Care",
+    "image": "https://example.com/images/samsung_serum.jpg"
+  },
+  {
+    "name": "H&M Conditioner",
+    "category": "Hair Care",
+    "image": "https://example.com/images/h&m_conditioner.jpg"
+  },
+  {
+    "name": "Apple Beige Watch",
+    "category": "Accessories",
+    "image": "https://example.com/images/apple_beige_watch.jpg"
+  },
+  {
+    "name": "Zara Toner",
+    "category": "Skin Care",
+    "image": "https://example.com/images/zara_toner.jpg"
+  },
+  {
+    "name": "H&M Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/h&m_microwave.jpg"
+  },
+  {
+    "name": "Dove Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/dove_laptop.jpg"
+  },
+  {
+    "name": "LG Grey Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/lg_grey_sandals.jpg"
+  },
+  {
+    "name": "Philips Sunscreen",
+    "category": "Skin Care",
+    "image": "https://example.com/images/philips_sunscreen.jpg"
+  },
+  {
+    "name": "Sony Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/sony_microwave.jpg"
+  },
+  {
+    "name": "H&M Toner",
+    "category": "Skin Care",
+    "image": "https://example.com/images/h&m_toner.jpg"
+  },
+  {
+    "name": "Apple Beige Slim Fit Shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/apple_beige_slim_fit_shirt.jpg"
+  },
+  {
+    "name": "Zara Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/zara_air_conditioner.jpg"
+  },
+  {
+    "name": "Apple Red Wide Leg T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/apple_red_wide_leg_t-shirt.jpg"
+  },
+  {
+    "name": "Philips Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/philips_hair_mask.jpg"
+  },
+  {
+    "name": "Philips Green Cargo Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_green_cargo_sweater.jpg"
+  },
+  {
+    "name": "Samsung Yellow Slim Fit Shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/samsung_yellow_slim_fit_shirt.jpg"
+  },
+  {
+    "name": "Sony Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/sony_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Yellow Cargo Shorts",
+    "category": "Clothing",
+    "image": "https://example.com/images/l'or\u00e9al_yellow_cargo_shorts.jpg"
+  },
+  {
+    "name": "Samsung Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/samsung_laptop.jpg"
+  },
+  {
+    "name": "Dove Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/dove_air_conditioner.jpg"
+  },
+  {
+    "name": "Dove Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/dove_blender.jpg"
+  },
+  {
+    "name": "Adidas Moisturizer",
+    "category": "Skin Care",
+    "image": "https://example.com/images/adidas_moisturizer.jpg"
+  },
+  {
+    "name": "Levi's Green High Waist T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/levi's_green_high_waist_t-shirt.jpg"
+  },
+  {
+    "name": "Samsung Moisturizer",
+    "category": "Skin Care",
+    "image": "https://example.com/images/samsung_moisturizer.jpg"
+  },
+  {
+    "name": "Apple Black Cargo T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/apple_black_cargo_t-shirt.jpg"
+  },
+  {
+    "name": "Sony Green Handbag",
+    "category": "Accessories",
+    "image": "https://example.com/images/sony_green_handbag.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/l'or\u00e9al_microwave.jpg"
+  },
+  {
+    "name": "Panasonic Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/panasonic_headphones.jpg"
+  },
+  {
+    "name": "Panasonic Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/panasonic_blender.jpg"
+  },
+  {
+    "name": "Sony Red Wallet",
+    "category": "Accessories",
+    "image": "https://example.com/images/sony_red_wallet.jpg"
+  },
+  {
+    "name": "Zara Sunscreen",
+    "category": "Skin Care",
+    "image": "https://example.com/images/zara_sunscreen.jpg"
+  },
+  {
+    "name": "Dove Blue Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_blue_flip-flops.jpg"
+  },
+  {
+    "name": "Levi's Cleanser",
+    "category": "Skin Care",
+    "image": "https://example.com/images/levi's_cleanser.jpg"
+  },
+  {
+    "name": "Philips Green Handbag",
+    "category": "Accessories",
+    "image": "https://example.com/images/philips_green_handbag.jpg"
+  },
+  {
+    "name": "Philips Green Distressed Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_green_distressed_sweater.jpg"
+  },
+  {
+    "name": "Dove Yellow Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_yellow_sandals.jpg"
+  },
+  {
+    "name": "LG Face Mask",
+    "category": "Skin Care",
+    "image": "https://example.com/images/lg_face_mask.jpg"
+  },
+  {
+    "name": "Nike Beige Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/nike_beige_boots.jpg"
+  },
+  {
+    "name": "Nike Grey Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/nike_grey_flip-flops.jpg"
+  },
+  {
+    "name": "Adidas Blue Washed Jacket",
+    "category": "Clothing",
+    "image": "https://example.com/images/adidas_blue_washed_jacket.jpg"
+  },
+  {
+    "name": "Dove Yellow Belt",
+    "category": "Accessories",
+    "image": "https://example.com/images/dove_yellow_belt.jpg"
+  },
+  {
+    "name": "Adidas Green Watch",
+    "category": "Accessories",
+    "image": "https://example.com/images/adidas_green_watch.jpg"
+  },
+  {
+    "name": "Dove Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/dove_smartwatch.jpg"
+  },
+  {
+    "name": "Dove Refrigerator",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/dove_refrigerator.jpg"
+  },
+  {
+    "name": "LG Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/lg_air_conditioner.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Green Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/l'or\u00e9al_green_flip-flops.jpg"
+  },
+  {
+    "name": "H&M Sunscreen",
+    "category": "Skin Care",
+    "image": "https://example.com/images/h&m_sunscreen.jpg"
+  },
+  {
+    "name": "Zara Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/zara_blender.jpg"
+  },
+  {
+    "name": "Samsung Green Straight Dress",
+    "category": "Clothing",
+    "image": "https://example.com/images/samsung_green_straight_dress.jpg"
+  },
+  {
+    "name": "Apple Moisturizer",
+    "category": "Skin Care",
+    "image": "https://example.com/images/apple_moisturizer.jpg"
+  },
+  {
+    "name": "Apple White Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/apple_white_sandals.jpg"
+  },
+  {
+    "name": "LG Black Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/lg_black_flip-flops.jpg"
+  },
+  {
+    "name": "Vaseline Serum",
+    "category": "Skin Care",
+    "image": "https://example.com/images/vaseline_serum.jpg"
+  },
+  {
+    "name": "Apple Shampoo",
+    "category": "Hair Care",
+    "image": "https://example.com/images/apple_shampoo.jpg"
+  },
+  {
+    "name": "Sony Cleanser",
+    "category": "Skin Care",
+    "image": "https://example.com/images/sony_cleanser.jpg"
+  },
+  {
+    "name": "Apple Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/apple_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "Vaseline Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/vaseline_smartwatch.jpg"
+  },
+  {
+    "name": "H&M White Slim Fit Jacket",
+    "category": "Clothing",
+    "image": "https://example.com/images/h&m_white_slim_fit_jacket.jpg"
+  },
+  {
+    "name": "H&M Beige Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/h&m_beige_boots.jpg"
+  },
+  {
+    "name": "Sony Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/sony_hair_mask.jpg"
+  },
+  {
+    "name": "Levi's Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/levi's_smartwatch.jpg"
+  },
+  {
+    "name": "Philips Hair Serum",
+    "category": "Hair Care",
+    "image": "https://example.com/images/philips_hair_serum.jpg"
+  },
+  {
+    "name": "Levi's Washing Machine",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/levi's_washing_machine.jpg"
+  },
+  {
+    "name": "Apple Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/apple_air_conditioner.jpg"
+  },
+  {
+    "name": "Panasonic Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/panasonic_hair_oil.jpg"
+  },
+  {
+    "name": "Philips Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/philips_hair_oil.jpg"
+  },
+  {
+    "name": "Dove Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/dove_hair_mask.jpg"
+  },
+  {
+    "name": "Philips Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/philips_air_conditioner.jpg"
+  },
+  {
+    "name": "Philips Black Sunglasses",
+    "category": "Accessories",
+    "image": "https://example.com/images/philips_black_sunglasses.jpg"
+  },
+  {
+    "name": "Zara Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/zara_laptop.jpg"
+  },
+  {
+    "name": "Adidas Blue Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/adidas_blue_sandals.jpg"
+  },
+  {
+    "name": "Sony Face Mask",
+    "category": "Skin Care",
+    "image": "https://example.com/images/sony_face_mask.jpg"
+  },
+  {
+    "name": "Panasonic Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/panasonic_hair_mask.jpg"
+  },
+  {
+    "name": "Philips Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/philips_headphones.jpg"
+  },
+  {
+    "name": "Apple Refrigerator",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/apple_refrigerator.jpg"
+  },
+  {
+    "name": "H&M Cleanser",
+    "category": "Skin Care",
+    "image": "https://example.com/images/h&m_cleanser.jpg"
+  },
+  {
+    "name": "Panasonic Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/panasonic_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "Adidas Conditioner",
+    "category": "Hair Care",
+    "image": "https://example.com/images/adidas_conditioner.jpg"
+  },
+  {
+    "name": "Philips Blue Wide Leg Jacket",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_blue_wide_leg_jacket.jpg"
+  },
+  {
+    "name": "Panasonic Microwave",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/panasonic_microwave.jpg"
+  },
+  {
+    "name": "Adidas Washing Machine",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/adidas_washing_machine.jpg"
+  },
+  {
+    "name": "Philips White Slim Fit Jeans",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_white_slim_fit_jeans.jpg"
+  },
+  {
+    "name": "Apple Toner",
+    "category": "Skin Care",
+    "image": "https://example.com/images/apple_toner.jpg"
+  },
+  {
+    "name": "Philips Washing Machine",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/philips_washing_machine.jpg"
+  },
+  {
+    "name": "Nike Green Wide Leg Dress",
+    "category": "Clothing",
+    "image": "https://example.com/images/nike_green_wide_leg_dress.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Black High Waist Jeans",
+    "category": "Clothing",
+    "image": "https://example.com/images/l'or\u00e9al_black_high_waist_jeans.jpg"
+  },
+  {
+    "name": "Apple Green Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/apple_green_heels.jpg"
+  },
+  {
+    "name": "Adidas Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/adidas_headphones.jpg"
+  },
+  {
+    "name": "Apple Red High Waist Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/apple_red_high_waist_sweater.jpg"
+  },
+  {
+    "name": "Vaseline Yellow Slim Fit Jacket",
+    "category": "Clothing",
+    "image": "https://example.com/images/vaseline_yellow_slim_fit_jacket.jpg"
+  },
+  {
+    "name": "Adidas Grey Wallet",
+    "category": "Accessories",
+    "image": "https://example.com/images/adidas_grey_wallet.jpg"
+  },
+  {
+    "name": "Levi's Beige Distressed Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/levi's_beige_distressed_sweater.jpg"
+  },
+  {
+    "name": "Sony Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/sony_laptop.jpg"
+  },
+  {
+    "name": "LG Grey Low Rise Shorts",
+    "category": "Clothing",
+    "image": "https://example.com/images/lg_grey_low_rise_shorts.jpg"
+  },
+  {
+    "name": "Vaseline Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/vaseline_smartphone.jpg"
+  },
+  {
+    "name": "LG Shampoo",
+    "category": "Hair Care",
+    "image": "https://example.com/images/lg_shampoo.jpg"
+  },
+  {
+    "name": "Philips Red High Waist Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_red_high_waist_sweater.jpg"
+  },
+  {
+    "name": "Vaseline Toner",
+    "category": "Skin Care",
+    "image": "https://example.com/images/vaseline_toner.jpg"
+  },
+  {
+    "name": "LG White High Waist Jeans",
+    "category": "Clothing",
+    "image": "https://example.com/images/lg_white_high_waist_jeans.jpg"
+  },
+  {
+    "name": "Panasonic Yellow Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/panasonic_yellow_flip-flops.jpg"
+  },
+  {
+    "name": "Vaseline Red Loafers",
+    "category": "Footwear",
+    "image": "https://example.com/images/vaseline_red_loafers.jpg"
+  },
+  {
+    "name": "Levi's Toner",
+    "category": "Skin Care",
+    "image": "https://example.com/images/levi's_toner.jpg"
+  },
+  {
+    "name": "LG Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/lg_hair_oil.jpg"
+  },
+  {
+    "name": "Levi's Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/levi's_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "Vaseline Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/vaseline_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "Samsung Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/samsung_smartphone.jpg"
+  },
+  {
+    "name": "H&M Blue Washed T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/h&m_blue_washed_t-shirt.jpg"
+  },
+  {
+    "name": "Panasonic Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/panasonic_laptop.jpg"
+  },
+  {
+    "name": "Vaseline White Wide Leg Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/vaseline_white_wide_leg_sweater.jpg"
+  },
+  {
+    "name": "Sony Sunscreen",
+    "category": "Skin Care",
+    "image": "https://example.com/images/sony_sunscreen.jpg"
+  },
+  {
+    "name": "Samsung Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/samsung_hair_mask.jpg"
+  },
+  {
+    "name": "Zara Black Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/zara_black_flip-flops.jpg"
+  },
+  {
+    "name": "Adidas Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/adidas_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "Philips White Distressed T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_white_distressed_t-shirt.jpg"
+  },
+  {
+    "name": "Panasonic Beige Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/panasonic_beige_sandals.jpg"
+  },
+  {
+    "name": "Adidas Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/adidas_smartphone.jpg"
+  },
+  {
+    "name": "Samsung White Sneakers",
+    "category": "Footwear",
+    "image": "https://example.com/images/samsung_white_sneakers.jpg"
+  },
+  {
+    "name": "H&M White Distressed Shorts",
+    "category": "Clothing",
+    "image": "https://example.com/images/h&m_white_distressed_shorts.jpg"
+  },
+  {
+    "name": "H&M Red Wallet",
+    "category": "Accessories",
+    "image": "https://example.com/images/h&m_red_wallet.jpg"
+  },
+  {
+    "name": "Nike Washing Machine",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/nike_washing_machine.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Conditioner",
+    "category": "Hair Care",
+    "image": "https://example.com/images/l'or\u00e9al_conditioner.jpg"
+  },
+  {
+    "name": "H&M Shampoo",
+    "category": "Hair Care",
+    "image": "https://example.com/images/h&m_shampoo.jpg"
+  },
+  {
+    "name": "Samsung Green Washed Sweater",
+    "category": "Clothing",
+    "image": "https://example.com/images/samsung_green_washed_sweater.jpg"
+  },
+  {
+    "name": "Philips White Loafers",
+    "category": "Footwear",
+    "image": "https://example.com/images/philips_white_loafers.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Green Sunglasses",
+    "category": "Accessories",
+    "image": "https://example.com/images/l'or\u00e9al_green_sunglasses.jpg"
+  },
+  {
+    "name": "Vaseline Black Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/vaseline_black_flip-flops.jpg"
+  },
+  {
+    "name": "Samsung Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://example.com/images/samsung_bluetooth_speaker.jpg"
+  },
+  {
+    "name": "H&M White Handbag",
+    "category": "Accessories",
+    "image": "https://example.com/images/h&m_white_handbag.jpg"
+  },
+  {
+    "name": "Philips Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/philips_laptop.jpg"
+  },
+  {
+    "name": "Nike Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/nike_smartphone.jpg"
+  },
+  {
+    "name": "Philips Yellow Low Rise Dress",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_yellow_low_rise_dress.jpg"
+  },
+  {
+    "name": "Philips Green Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/philips_green_heels.jpg"
+  },
+  {
+    "name": "Dove Beige Straight Dress",
+    "category": "Clothing",
+    "image": "https://example.com/images/dove_beige_straight_dress.jpg"
+  },
+  {
+    "name": "LG Blue Distressed Jeans",
+    "category": "Clothing",
+    "image": "https://example.com/images/lg_blue_distressed_jeans.jpg"
+  },
+  {
+    "name": "Philips Face Mask",
+    "category": "Skin Care",
+    "image": "https://example.com/images/philips_face_mask.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Red Scarf",
+    "category": "Accessories",
+    "image": "https://example.com/images/l'or\u00e9al_red_scarf.jpg"
+  },
+  {
+    "name": "Samsung Sunscreen",
+    "category": "Skin Care",
+    "image": "https://example.com/images/samsung_sunscreen.jpg"
+  },
+  {
+    "name": "LG Refrigerator",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/lg_refrigerator.jpg"
+  },
+  {
+    "name": "Sony Black Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/sony_black_sandals.jpg"
+  },
+  {
+    "name": "Adidas Black Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/adidas_black_boots.jpg"
+  },
+  {
+    "name": "H&M Grey Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/h&m_grey_heels.jpg"
+  },
+  {
+    "name": "Vaseline Blender",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/vaseline_blender.jpg"
+  },
+  {
+    "name": "Levi's Black Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/levi's_black_flip-flops.jpg"
+  },
+  {
+    "name": "Nike Sunscreen",
+    "category": "Skin Care",
+    "image": "https://example.com/images/nike_sunscreen.jpg"
+  },
+  {
+    "name": "LG Headphones",
+    "category": "Electronics",
+    "image": "https://example.com/images/lg_headphones.jpg"
+  },
+  {
+    "name": "Vaseline Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/vaseline_hair_oil.jpg"
+  },
+  {
+    "name": "Samsung Yellow Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/samsung_yellow_boots.jpg"
+  },
+  {
+    "name": "Dove Grey Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_grey_boots.jpg"
+  },
+  {
+    "name": "Levi's Laptop",
+    "category": "Electronics",
+    "image": "https://example.com/images/levi's_laptop.jpg"
+  },
+  {
+    "name": "Adidas Blue Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/adidas_blue_heels.jpg"
+  },
+  {
+    "name": "Levi's Face Mask",
+    "category": "Skin Care",
+    "image": "https://example.com/images/levi's_face_mask.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Grey Distressed Shorts",
+    "category": "Clothing",
+    "image": "https://example.com/images/l'or\u00e9al_grey_distressed_shorts.jpg"
+  },
+  {
+    "name": "Dove Black Boots",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_black_boots.jpg"
+  },
+  {
+    "name": "H&M Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/h&m_smartwatch.jpg"
+  },
+  {
+    "name": "Vaseline Yellow Watch",
+    "category": "Accessories",
+    "image": "https://example.com/images/vaseline_yellow_watch.jpg"
+  },
+  {
+    "name": "LG Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/lg_smartwatch.jpg"
+  },
+  {
+    "name": "Vaseline Moisturizer",
+    "category": "Skin Care",
+    "image": "https://example.com/images/vaseline_moisturizer.jpg"
+  },
+  {
+    "name": "Panasonic Grey Scarf",
+    "category": "Accessories",
+    "image": "https://example.com/images/panasonic_grey_scarf.jpg"
+  },
+  {
+    "name": "Samsung Grey Sneakers",
+    "category": "Footwear",
+    "image": "https://example.com/images/samsung_grey_sneakers.jpg"
+  },
+  {
+    "name": "Sony Black Scarf",
+    "category": "Accessories",
+    "image": "https://example.com/images/sony_black_scarf.jpg"
+  },
+  {
+    "name": "Vaseline Yellow Scarf",
+    "category": "Accessories",
+    "image": "https://example.com/images/vaseline_yellow_scarf.jpg"
+  },
+  {
+    "name": "LG Yellow Handbag",
+    "category": "Accessories",
+    "image": "https://example.com/images/lg_yellow_handbag.jpg"
+  },
+  {
+    "name": "H&M Face Mask",
+    "category": "Skin Care",
+    "image": "https://example.com/images/h&m_face_mask.jpg"
+  },
+  {
+    "name": "H&M Serum",
+    "category": "Skin Care",
+    "image": "https://example.com/images/h&m_serum.jpg"
+  },
+  {
+    "name": "Apple Grey Handbag",
+    "category": "Accessories",
+    "image": "https://example.com/images/apple_grey_handbag.jpg"
+  },
+  {
+    "name": "Zara Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/zara_hair_mask.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Face Mask",
+    "category": "Skin Care",
+    "image": "https://example.com/images/l'or\u00e9al_face_mask.jpg"
+  },
+  {
+    "name": "Levi's Green Washed Jacket",
+    "category": "Clothing",
+    "image": "https://example.com/images/levi's_green_washed_jacket.jpg"
+  },
+  {
+    "name": "Levi's Hair Mask",
+    "category": "Hair Care",
+    "image": "https://example.com/images/levi's_hair_mask.jpg"
+  },
+  {
+    "name": "Vaseline Blue Loafers",
+    "category": "Footwear",
+    "image": "https://example.com/images/vaseline_blue_loafers.jpg"
+  },
+  {
+    "name": "Philips White High Waist T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/philips_white_high_waist_t-shirt.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Grey Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/l'or\u00e9al_grey_heels.jpg"
+  },
+  {
+    "name": "L'Or\u00e9al Hair Serum",
+    "category": "Hair Care",
+    "image": "https://example.com/images/l'or\u00e9al_hair_serum.jpg"
+  },
+  {
+    "name": "H&M Green Flip-flops",
+    "category": "Footwear",
+    "image": "https://example.com/images/h&m_green_flip-flops.jpg"
+  },
+  {
+    "name": "Dove Blue Wallet",
+    "category": "Accessories",
+    "image": "https://example.com/images/dove_blue_wallet.jpg"
+  },
+  {
+    "name": "Samsung Smartwatch",
+    "category": "Electronics",
+    "image": "https://example.com/images/samsung_smartwatch.jpg"
+  },
+  {
+    "name": "LG White Cargo T-shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/lg_white_cargo_t-shirt.jpg"
+  },
+  {
+    "name": "Panasonic Green High Waist Jacket",
+    "category": "Clothing",
+    "image": "https://example.com/images/panasonic_green_high_waist_jacket.jpg"
+  },
+  {
+    "name": "Zara Yellow Loafers",
+    "category": "Footwear",
+    "image": "https://example.com/images/zara_yellow_loafers.jpg"
+  },
+  {
+    "name": "Dove Serum",
+    "category": "Skin Care",
+    "image": "https://example.com/images/dove_serum.jpg"
+  },
+  {
+    "name": "Apple Black Washed Dress",
+    "category": "Clothing",
+    "image": "https://example.com/images/apple_black_washed_dress.jpg"
+  },
+  {
+    "name": "H&M Green Wide Leg Shirt",
+    "category": "Clothing",
+    "image": "https://example.com/images/h&m_green_wide_leg_shirt.jpg"
+  },
+  {
+    "name": "LG Serum",
+    "category": "Skin Care",
+    "image": "https://example.com/images/lg_serum.jpg"
+  },
+  {
+    "name": "Nike Beige Heels",
+    "category": "Footwear",
+    "image": "https://example.com/images/nike_beige_heels.jpg"
+  },
+  {
+    "name": "Panasonic Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/panasonic_air_conditioner.jpg"
+  },
+  {
+    "name": "Panasonic Hair Serum",
+    "category": "Hair Care",
+    "image": "https://example.com/images/panasonic_hair_serum.jpg"
+  },
+  {
+    "name": "Adidas Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/adidas_hair_oil.jpg"
+  },
+  {
+    "name": "H&M Hair Oil",
+    "category": "Hair Care",
+    "image": "https://example.com/images/h&m_hair_oil.jpg"
+  },
+  {
+    "name": "Zara Smartphone",
+    "category": "Electronics",
+    "image": "https://example.com/images/zara_smartphone.jpg"
+  },
+  {
+    "name": "Dove Green Sandals",
+    "category": "Footwear",
+    "image": "https://example.com/images/dove_green_sandals.jpg"
+  },
+  {
+    "name": "Nike Air Conditioner",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/nike_air_conditioner.jpg"
+  }
+]
