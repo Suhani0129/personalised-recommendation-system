@@ -52,6 +52,4 @@ This was a two-person academic project:
 ## About Me
 
 I’m Suhani Singh, currently a Computer Science (AI) student. This is one of my first backend projects, and I really enjoyed working with Spring Boot for this.
-
-- [LinkedIn](https://www.linkedin.com/in/suhani-singh-311127369)  
 - [GitHub](https://github.com/SuhaniSingh)
