@@ -43,6 +43,17 @@ Java Spring Boot mini project to simulate product recommendations using JSON dat
 5. Open your browser and go to:  
    `http://localhost:8082/` (my app runs on port 8082)
 
+## Configuration Note
+
+This project uses Spring Data JPA with a MySQL database.
+
+To run the project locally:
+-> Create a MySQL database named `Ecommerce`
+-> Create a file named `application.properties` in `src/main/resources/`
+-> Add your database configuration in the file as shown below:
+
+
+
 ## Team Contribution
 
 This was a two-person academic project:
