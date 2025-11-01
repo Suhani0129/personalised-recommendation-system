@@ -1,6 +1,6 @@
 # personalised-ecommerce-recommendation-system
 
-Java Spring Boot mini project to simulate product recommendations using JSON data.
+Java Spring Boot project to simulate product recommendations on applications like amazon and netflix.
 
 ## Features
 
@@ -14,11 +14,13 @@ Java Spring Boot mini project to simulate product recommendations using JSON dat
 
 -> Java
 -> Spring Boot
+-> Spring data JPA
 -> Maven
 -> REST APIs
 -> CSV (for user-product interactions)
 -> JSON (for product data: name, category, image)
 -> HTML / CSS / JavaScript (Frontend)
+-> MySQL database and server
 
 ## Project Structure
 
@@ -50,7 +52,7 @@ This project uses Spring Data JPA with a MySQL database.
 To run the project locally:
 -> Create a MySQL database named `Ecommerce`
 -> Create a file named `application.properties` in `src/main/resources/`
--> Add your database configuration in the file as shown below:
+-> Add your database configuration in the application.properties file as shown below:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce
 spring.datasource.username=your-username
@@ -69,5 +71,5 @@ This was a two-person academic project:
 
 ## About Me
 
-I’m Suhani Singh, currently a Computer Science (AI) student. This is one of my first backend projects, and I really enjoyed working with Spring Boot for this.
-- [GitHub](https://github.com/SuhaniSingh)
+I’m Suhani Singh, currently a Computer Science (AI) student. This is one of my first backend projects, and I really enjoyed working with Spring Boot on this.
+- [GitHub](https://github.com/Suhani0129)
