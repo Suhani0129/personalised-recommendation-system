@@ -1,4 +1,4 @@
-# personalised-recommendation-system
+# personalised-ecommerce-recommendation-system
 
 Java Spring Boot mini project to simulate product recommendations using JSON data.
 
